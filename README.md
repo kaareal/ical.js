@@ -1,5 +1,7 @@
 # ical.js - Javascript parser for iCalendar, jCal, vCard, jCard.
 
+test
+
 This is a library to parse the formats defined in the following rfcs and their extensions:
 * [rfc 5545](http://tools.ietf.org/html/rfc5545) (iCalendar)
 * [rfc7265](http://tools.ietf.org/html/rfc7265) (jCal)
